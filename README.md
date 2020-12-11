@@ -1,5 +1,5 @@
 # BananaRestaurant-Mobile-App
-Company: BananaTech - This is a mobile react-native project that locates restaurants and compares prices from Santa Cruz
+BananaTech - This is a mobile react-native project that locates restaurants and compares prices from Santa Cruz
 
 This was my first react-native mobile application. The goal was to 
 learn how to make a beautiful app that would search for restaurants 
