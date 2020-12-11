@@ -47,17 +47,24 @@ What I learned from this project are the following:
 - How to effectively use Ternary conditionals(truthy values)
 
 - How to desctruture props in child components
--The ability to render images on screen, and how to style the defaulted collapsed images accordingly
--Flatlist - which basically is an interface for rendinger basic, flat lists, and supports cross-platform 
+
+- The ability to render images on screen, and how to style the defaulted collapsed images accordingly
+
+- Flatlist - which basically is an interface for rendinger basic, flat lists, and supports cross-platform
     features, horizontal mode, configurable view callbacks, header support, footer support, scroll's loading, and etc.
--keyExtractor - enabling the developer to look at every item inside the requested object. Essentially telling the
+    
+- keyExtractor - enabling the developer to look at every item inside the requested object. Essentially telling the
     list to use id's for the react keys instead of the default key properties. Also note strings 'must be unique'
--renderItem - almost like keyExtractor but slightly different in which it takes an item from data 
+    
+- renderItem - almost like keyExtractor but slightly different in which it takes an item from data 
     and renders it into the list
--Navigation and route configuration
--Navigating from a child components
--TouchableOpacity - A primitive element which fades out any child elements. Also upon click a user will definitely
+- Navigation and route configuration
+
+- Navigating from a child components
+
+- TouchableOpacity - A primitive element which fades out any child elements. Also upon click a user will definitely
     know that they have touched the mobile screen
--library of with Navigation navigation.navigate('pathFoo.js') implementation allowing 
+    
+- library of with Navigation navigation.navigate('pathFoo.js') implementation allowing 
     navigation amongst components
 
