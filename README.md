@@ -14,6 +14,8 @@ application be one of many in terms of mobile applications!
 
 - https://docs.expo.io/
 
+- Link to an easier guide on youtube: https://www.youtube.com/watch?v=bef12Fa9bhM
+
 ## Learning Objective Outcomes
 --------------------------------------------------------------------------------------------------------------
 What I learned from this project are the following:
