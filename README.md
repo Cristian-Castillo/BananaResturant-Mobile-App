@@ -17,7 +17,7 @@ application be one of many in terms of mobile applications!
 - Link to an easier guide on youtube: https://www.youtube.com/watch?v=bef12Fa9bhM
 
 ### App Overview GIF
-<img src="http://g.recordit.co/hFOP62oo68.gif" width=500><br>
+<img src="http://g.recordit.co/hFOP62oo68.gif" width=400><br>
 
 ## Learning Objective Outcomes
 --------------------------------------------------------------------------------------------------------------
